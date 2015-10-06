@@ -1,0 +1,29 @@
+Level	Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %
+— 	Leech Seed 			-- 	90 	10 	--
+A seed is planted on the target. It steals some HP from the target every turn.
+— 	Confusion 			50 	100 	25 	10
+The target is hit by a weak telekinetic force. It may also leave the target confused.
+— 	Recover 			-- 	-- 	10 	--
+Restoring its own cells, the user restores its own HP by half of its max HP.
+— 	Heal Bell 			-- 	-- 	5 	--
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+10 	Safeguard 			-- 	-- 	25 	--
+The user creates a protective field that prevents status problems for five turns.
+19 	Magical Leaf 			60 	-- 	20 	--
+The user scatters curious leaves that chase the target. This attack will not miss.
+28 	Ancient Power 			60 	100 	5 	10
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+37 	Baton Pass 			-- 	-- 	40 	--
+The user switches places with a party Pokémon in waiting, passing along any stat changes.
+46 	Natural Gift 			?? 	100 	15 	--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.
+55 	Heal Block 			-- 	100 	15 	--
+For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.
+64 	Future Sight 			120 	100 	10 	--
+Two turns after this move is used, a hunk of psychic energy attacks the target.
+73 	Healing Wish 			-- 	-- 	10 	--
+The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.
+82 	Leaf Storm 			130 	90 	5 	100
+The user whips up a storm of leaves around the target. The attack's recoil harshly reduces the user's Sp. Atk stat.
+91 	Perish Song 			-- 	-- 	5 	--
+Any Pokémon that hears this song faints in three turns, unless it switches out of battle.

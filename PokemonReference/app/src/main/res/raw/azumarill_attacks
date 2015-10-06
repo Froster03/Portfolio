@@ -1,0 +1,36 @@
+— 	Tackle 			50 	100 	35 	--
+A physical attack in which the user charges and slams into the target with its whole body.
+— 	Water Gun 			40 	100 	25 	--
+The target is blasted with a forceful shot of water.
+— 	Tail Whip 			-- 	100 	30 	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+— 	Water Sport 			-- 	-- 	15 	--
+The user soaks itself with water. The move weakens Fire-type moves for five turns.
+2 	Tail Whip 			-- 	100 	30 	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+5 	Water Sport 			-- 	-- 	15 	--
+The user soaks itself with water. The move weakens Fire-type moves for five turns.
+7 	Bubble 			40 	100 	30 	10
+A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats.
+10 	Defense Curl 			-- 	-- 	40 	--
+The user curls up to conceal weak spots and raise its Defense stat.
+10 	Rollout 			30 	90 	20 	--
+The user continually rolls into the target over five turns. It becomes stronger each time it hits.
+13 	Bubble Beam 			65 	100 	20 	10
+A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats.
+16 	Helping Hand 			-- 	-- 	20 	--
+The user assists an ally by boosting the power of its attack.
+21 	Aqua Tail 			90 	90 	10 	--
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm.
+25 	Play Rough 			90 	90 	10 	10
+The user plays rough with the target and attacks it. This may also lower the target's Attack stat.
+31 	Aqua Ring 			-- 	-- 	20 	--
+The user envelops itself in a veil made of water. It regains some HP on every turn.
+35 	Rain Dance 			-- 	-- 	5 	--
+The user summons a heavy rain that falls for five turns, powering up Water-type moves.
+42 	Double-Edge 			120 	100 	15 	--
+A reckless, life-risking tackle. It also damages the user by a fairly large amount, however.
+46 	Superpower 			120 	100 	5 	100
+The user attacks the target with great power. However, it also lowers the user's Attack and Defense.
+55 	Hydro Pump 			110 	80 	5 	--
+The target is blasted by a huge volume of water launched under great pressure.

@@ -1,0 +1,33 @@
+Level	Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %
+— 	Absorb 			20 	100 	25 	--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+— 	Tackle 			50 	100 	35 	--
+A physical attack in which the user charges and slams into the target with its whole body.
+— 	Stun Spore 			-- 	75 	30 	--
+The user scatters a cloud of paralyzing powder. It may leave the target with paralysis.
+— 	Leech Seed 			-- 	90 	10 	--
+A seed is planted on the target. It steals some HP from the target every turn.
+5 	Stun Spore 			-- 	75 	30 	--
+The user scatters a cloud of paralyzing powder. It may leave the target with paralysis.
+8 	Leech Seed 			-- 	90 	10 	--
+A seed is planted on the target. It steals some HP from the target every turn.
+12 	Mega Drain 			40 	100 	15 	--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+15 	Headbutt 			70 	100 	15 	30
+The user sticks out its head and attacks by charging straight into the target. It may also make the target flinch.
+19 	Feint 			30 	100 	10 	--
+An attack that hits a target using Protect or Detect. It also lifts the effects of those moves.
+22 	Counter 			?? 	100 	20 	--
+A retaliation move that counters any physical attack, inflicting double the damage taken.
+23 	Mach Punch 			40 	100 	30 	--
+The user throws a punch at blinding speed. It is certain to strike first.
+28 	Force Palm 			60 	100 	10 	30
+The target is attacked with a shock wave. It may also leave the target with paralysis.
+33 	Mind Reader 			-- 	-- 	5 	--
+The user senses the target's movements with its mind to ensure its next attack does not miss the target.
+39 	Sky Uppercut 			85 	90 	15 	--
+The user attacks the target with an uppercut thrown skyward with force.
+44 	Seed Bomb 			80 	100 	15 	--
+The user slams a barrage of hard-shelled seeds down on the target from above.
+50 	Dynamic Punch 			100 	50 	5 	100
+The user punches the target with full, concentrated power. It confuses the target if it hits.

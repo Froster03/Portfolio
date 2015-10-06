@@ -1,0 +1,45 @@
+Level	Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %
+— 	Hurricane 			110 	70 	10 	30
+The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. It may also confuse the target.
+— 	Fire Punch 			75 	100 	15 	10
+The target is punched with a fiery fist. It may also leave the target with a burn.
+— 	Thunder Punch 			75 	100 	15 	10
+The target is punched with an electrified fist. It may also leave the target with paralysis.
+— 	Roost 			-- 	-- 	10 	--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.
+— 	Wrap 			15 	90 	20 	100
+A long body or vines are used to wrap and squeeze the target for four to five turns.
+— 	Leer 			-- 	100 	30 	100
+The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced.
+— 	Thunder Wave 			-- 	100 	20 	--
+A weak electric charge is launched at the target. It causes paralysis if it hits.
+— 	Twister 			40 	100 	20 	20
+The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch.
+5 	Thunder Wave 			-- 	100 	20 	--
+A weak electric charge is launched at the target. It causes paralysis if it hits.
+11 	Twister 			40 	100 	20 	20
+The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch.
+15 	Dragon Rage 			?? 	100 	10 	--
+This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage.
+21 	Slam 			80 	75 	20 	--
+The target is slammed with a long tail, vines, etc., to inflict damage.
+25 	Agility 			-- 	-- 	30 	--
+The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+33 	Dragon Tail 			60 	90 	10 	--
+The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+39 	Aqua Tail 			90 	90 	10 	--
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm.
+47 	Dragon Rush 			100 	75 	10 	20
+The user tackles the target while exhibiting overwhelming menace. It may also make the target flinch.
+53 	Safeguard 			-- 	-- 	25 	--
+The user creates a protective field that prevents status problems for five turns.
+55 	Wing Attack 			60 	100 	35 	--
+The target is struck with large, imposing wings spread wide to inflict damage.
+61 	Dragon Dance 			-- 	-- 	20 	--
+The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.
+67 	Outrage 			120 	100 	10 	--
+The user rampages and attacks for two to three turns. It then becomes confused, however.
+75 	Hyper Beam 			150 	90 	5 	--
+The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+81 	Hurricane 			110 	70 	10 	30
+The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. It may also confuse the target.

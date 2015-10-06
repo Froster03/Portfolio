@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PokemonReference</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_simple_frag">SimpleFrag</string>
+    <string name="Attacks">Attacks-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ipsum tellus, pulvinar sagittis nibh id, varius dictum velit. Proin eu ultricies magna. Pellentesque eu arcu risus. Maecenas facilisis semper ligula, in tincidunt nulla rhoncus ac. Curabitur ornare quam vel velit hendrerit luctus. Aenean pretium, lorem in egestas congue, ex felis laoreet massa, vel sodales ante nunc ac leo. Maecenas semper pharetra odio, eget mattis sapien pharetra eu.
+
+Aenean vel mauris massa. Curabitur non nisi arcu. Fusce commodo sem quis condimentum semper. Sed vehicula nisi et magna molestie, at suscipit est viverra. Suspendisse accumsan felis eget nisl rhoncus, eu pellentesque erat tincidunt. Sed vel dapibus nisi. Curabitur et quam eget risus tempor egestas.
+
+Aenean rutrum faucibus ipsum, eget rutrum leo sodales eu. Cras in sapien ornare, malesuada lacus non, imperdiet metus. Aliquam finibus dui eu sodales rhoncus. Sed eu urna ac velit imperdiet pretium. Nunc sollicitudin, quam et porta rhoncus, tellus nisi vestibulum nisi, non tempus mauris libero sed est. Vivamus in dictum turpis. Proin ut suscipit dui. Nunc ac tempor quam, sit amet malesuada mi. Fusce eu tellus in risus viverra pellentesque. Cras nec placerat odio, vel sagittis odio. Curabitur semper sed purus in vestibulum.
+
+Proin vel ultricies nunc. Quisque at scelerisque ipsum. Cras lacinia mi eget ligula ullamcorper mollis. In varius id ipsum vel euismod. Suspendisse malesuada ultrices neque vitae vestibulum. In consequat, ante quis fermentum luctus, turpis sapien consectetur ipsum, vel congue tellus elit a odio. Mauris a quam nec orci aliquet scelerisque eget vel ex. Aenean gravida erat dolor, a blandit tortor tincidunt non. Morbi tincidunt, tellus sed convallis cursus, nisl quam sollicitudin erat, sed viverra neque erat a dui. Suspendisse sem nisi, cursus vitae massa id, rhoncus bibendum augue. Quisque elementum sodales neque, sed pellentesque lorem. Donec interdum justo mauris, eu molestie felis pharetra ut. Nunc vel laoreet nisl.
+
+Vivamus et libero pulvinar, ullamcorper mi sit amet, elementum leo. Nullam ultrices leo dapibus nisl convallis convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam eget nibh aliquet nisl egestas fermentum. Vestibulum vitae erat sem. Mauris varius egestas consectetur. Etiam ac purus dolor. Nulla cursus neque tortor, quis efficitur elit molestie eget. Nam tortor sapien, faucibus eu auctor a, feugiat a odio. Vestibulum eleifend facilisis mi, id elementum nunc mollis eu. </string>
+
+    <string-array name="lvlSpinner">
+        <item>"Lvl"</item>
+        <item>"1"</item>
+        <item>"50"</item>
+        <item>"100"</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_frag_handler">FragHandler</string>
+    <string name="title_activity_frag_main">FragMain</string>
+    <string name="title_activity_fill_pokemon_image">FillPokemonImage</string>
+
+</resources>

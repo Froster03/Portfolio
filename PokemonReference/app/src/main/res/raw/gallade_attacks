@@ -1,0 +1,49 @@
+Level	Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %
+— 	Stored Power 			20 	100 	10 	--
+The user attacks the target with stored power. The more the user's stats are raised, the greater the damage.
+— 	Close Combat 			120 	100 	5 	100
+The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+— 	Leaf Blade 			90 	100 	15 	--
+The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.
+— 	Night Slash 			70 	100 	15 	--
+The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+— 	Leer 			-- 	100 	30 	100
+The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced.
+— 	Confusion 			50 	100 	25 	10
+The target is hit by a weak telekinetic force. It may also leave the target confused.
+— 	Double Team 			-- 	-- 	15 	--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.
+— 	Teleport 			-- 	-- 	20 	--
+Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.
+4 	Confusion 			50 	100 	25 	10
+The target is hit by a weak telekinetic force. It may also leave the target confused.
+6 	Double Team 			-- 	-- 	15 	--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.
+9 	Teleport 			-- 	-- 	20 	--
+Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.
+11 	Quick Guard 			-- 	-- 	15 	--
+The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises.
+14 	Fury Cutter 			40 	95 	20 	--
+The target is slashed with scythes or claws. Its power increases if it hits in succession.
+17 	Slash 			70 	100 	20 	--
+The target is attacked with a slash of claws or blades. Critical hits land more easily.
+19 	Heal Pulse 			-- 	-- 	10 	--
+The user emits a healing pulse which restores the target's HP by up to half of its max HP.
+23 	Wide Guard 			-- 	-- 	10 	--
+The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises.
+26 	Swords Dance 			-- 	-- 	20 	--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+31 	Psycho Cut 			70 	100 	20 	--
+The user tears at the target with blades formed by psychic power. Critical hits land more easily.
+35 	Helping Hand 			-- 	-- 	20 	--
+The user assists an ally by boosting the power of its attack.
+40 	Feint 			30 	100 	10 	--
+An attack that hits a target using Protect or Detect. It also lifts the effects of those moves.
+44 	False Swipe 			40 	100 	40 	--
+A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.
+49 	Protect 			-- 	-- 	10 	--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+53 	Close Combat 			120 	100 	5 	100
+The user fights the target up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+58 	Stored Power 			20 	100 	10 	--
+The user attacks the target with stored power. The more the user's stats are raised, the greater the damage.

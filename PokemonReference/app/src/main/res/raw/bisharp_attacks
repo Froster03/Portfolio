@@ -1,0 +1,45 @@
+Level	Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %
+— 	Guillotine 			?? 	30 	5 	--
+A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits.
+— 	Iron Head 			80 	100 	15 	30
+The user slams the target with its steel-hard head. It may also make the target flinch.
+— 	Metal Burst 			?? 	100 	10 	--
+The user retaliates with much greater power against the target that last inflicted damage on it.
+— 	Scratch 			40 	100 	35 	--
+Hard, pointed, and sharp claws rake the target to inflict damage.
+— 	Leer 			-- 	100 	30 	100
+The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced.
+— 	Fury Cutter 			40 	95 	20 	--
+The target is slashed with scythes or claws. Its power increases if it hits in succession.
+— 	Torment 			-- 	100 	15 	--
+The user torments and enrages the target, making it incapable of using the same move twice in a row.
+6 	Leer 			-- 	100 	30 	100
+The opposing team gains an intimidating leer with sharp eyes. The opposing team's Defense stats are reduced.
+9 	Fury Cutter 			40 	95 	20 	--
+The target is slashed with scythes or claws. Its power increases if it hits in succession.
+14 	Torment 			-- 	100 	15 	--
+The user torments and enrages the target, making it incapable of using the same move twice in a row.
+17 	Feint Attack 			60 	-- 	20 	--
+The user approaches the target disarmingly, then throws a sucker punch. It hits without fail.
+22 	Scary Face 			-- 	100 	10 	--
+The user frightens the target with a scary face to harshly reduce its Speed stat.
+25 	Metal Claw 			50 	95 	35 	10
+The target is raked with steel claws. It may also raise the user's Attack stat.
+30 	Slash 			70 	100 	20 	--
+The target is attacked with a slash of claws or blades. Critical hits land more easily.
+33 	Assurance 			60 	100 	10 	--
+If the target has already taken some damage in the same turn, this attack's power is doubled.
+38 	Metal Sound 			-- 	85 	40 	--
+A horrible sound like scraping metal harshly reduces the target's Sp. Def stat.
+41 	Embargo 			-- 	100 	15 	--
+It prevents the target from using its held item. Its Trainer is also prevented from using items on it.
+46 	Iron Defense 			-- 	-- 	15 	--
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+49 	Night Slash 			70 	100 	15 	--
+The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+57 	Iron Head 			80 	100 	15 	30
+The user slams the target with its steel-hard head. It may also make the target flinch.
+63 	Swords Dance 			-- 	-- 	20 	--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+71 	Guillotine 			?? 	30 	5 	--
+A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits.

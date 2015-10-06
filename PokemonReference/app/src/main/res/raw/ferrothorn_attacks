@@ -1,0 +1,39 @@
+Level	Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %
+— 	Rock Climb 			90 	85 	20 	20
+The user attacks the target by smashing into it with incredible force. It may also confuse the target.
+— 	Tackle 			50 	100 	35 	--
+A physical attack in which the user charges and slams into the target with its whole body.
+— 	Harden 			-- 	-- 	30 	--
+The user stiffens all the muscles in its body to raise its Defense stat.
+— 	Rollout 			30 	90 	20 	--
+The user continually rolls into the target over five turns. It becomes stronger each time it hits.
+— 	Curse 			-- 	-- 	10 	--
+A move that works differently for the Ghost type than for all other types.
+6 	Rollout 			30 	90 	20 	--
+The user continually rolls into the target over five turns. It becomes stronger each time it hits.
+9 	Curse 			-- 	-- 	10 	--
+A move that works differently for the Ghost type than for all other types.
+14 	Metal Claw 			50 	95 	35 	10
+The target is raked with steel claws. It may also raise the user's Attack stat.
+18 	Pin Missile 			25 	95 	20 	--
+Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
+21 	Gyro Ball 			?? 	100 	5 	--
+The user tackles the target with a high-speed spin. The slower the user, the greater the damage.
+26 	Iron Defense 			-- 	-- 	15 	--
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+30 	Mirror Shot 			65 	85 	10 	30
+The user looses a flash of energy at the target from its polished body. It may also lower the target's accuracy.
+35 	Ingrain 			-- 	-- 	20 	--
+The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out.
+38 	Self-Destruct 			200 	100 	5 	--
+The user attacks everything around it by causing an explosion. The user faints upon using this move.
+40 	Power Whip 			120 	85 	10 	--
+The user violently whirls its vines or tentacles to harshly lash the target.
+46 	Iron Head 			80 	100 	15 	30
+The user slams the target with its steel-hard head. It may also make the target flinch.
+53 	Payback 			50 	100 	10 	--
+If the user moves after the target, this attack's power will be doubled.
+61 	Flash Cannon 			80 	100 	10 	10
+The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.
+67 	Explosion 			250 	100 	5 	--
+The user explodes to inflict damage on those around it. The user faints upon using this move.
